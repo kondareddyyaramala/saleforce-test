@@ -1,0 +1,19 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.App {
+  box-sizing: border-box;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.Header {
+  display: flex;
+  gap: 10px;
+  justify-content: space-between;
+  align-content: space-between;
+}
